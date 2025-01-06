@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+# 👋 Hello, I'm Ajay Kumar
+
+I’m a passionate Flutter developer with 6 months of experience in building beautiful and responsive mobile applications. I thrive on turning ideas into reality and enjoy tackling challenges with innovative solutions.
+
+## 🚀 Skills
+- **Flutter & Dart**: Proficient in building cross-platform apps.
+- **State Management**: Familiar with Provider, Riverpod, and Bloc.
+- **APIs**: Experience in integrating RESTful APIs and handling asynchronous data.
+- **UI/UX Design**: Keen eye for details and a good sense of design principles.
+- **Version Control**: Experienced with Git and GitHub.
+
+## 🌱 Currently Learning
+- Exploring advanced Flutter features and packages.
+- Deepening my understanding of backend technologies and cloud services.
+
+## 📈 Projects
+- [Project](https://github.com/Ajaykumaryadav-Aj/whatsapp_clone): Brief description of the project and technologies used.
+- [Project Name 2](https://github.com/Ajaykumaryadav-Aj/flutter_weather_app): Brief description of the project and technologies used.
+- Feel free to check out my repositories for more projects!
+
+## 📫 Get in Touch
+- LinkedIn: (https://www.linkedin.com/in/ajay-kumar-8910aa261/)
+- Email: (ajaykumaraky075@gmail.com)
+
+Looking forward to connecting and collaborating!
+
 <!--
 **Ajaykumaryadav-Aj/Ajaykumaryadav-Aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
