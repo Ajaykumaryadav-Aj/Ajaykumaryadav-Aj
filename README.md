@@ -19,8 +19,8 @@ I’m a passionate Flutter developer with 6 months of experience in building bea
 - Deepening my understanding of backend technologies and cloud services.
 
 ## 📈 Projects
-- [Project](https://github.com/Ajaykumaryadav-Aj/whatsapp_clone): Brief description of the project and technologies used.
-- [Project Name 2](https://github.com/Ajaykumaryadav-Aj/flutter_weather_app): Brief description of the project and technologies used.
+- [Project 1](https://github.com/Ajaykumaryadav-Aj/whatsapp_clone): Brief description of the project and technologies used.
+- [Project 2](https://github.com/Ajaykumaryadav-Aj/flutter_weather_app): Brief description of the project and technologies used.
 - Feel free to check out my repositories for more projects!
 
 ## 📫 Get in Touch
