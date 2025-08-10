@@ -5,7 +5,7 @@
 ![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWsycm96cHhkYjk0bjB0bGIzeXgzMGhyd2prNW9zODFrbDAyOWN1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)
 
 
-I’m a passionate Flutter developer with 6 months of experience in building beautiful and responsive mobile applications. I thrive on turning ideas into reality and enjoy tackling challenges with innovative solutions.
+I’m a passionate Flutter developer with experience in building beautiful and responsive mobile applications. I specialize in creating seamless user experience and intuitive for both Android and iOS.
 
 ## 🚀 Skills
 - **Flutter & Dart**: Proficient in building cross-platform apps.
