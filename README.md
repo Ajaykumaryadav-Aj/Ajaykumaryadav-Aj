@@ -14,9 +14,10 @@ I’m a passionate Flutter developer with experience in building beautiful and r
 - **UI/UX Design**: Keen eye for details and a good sense of design principles.
 - **Version Control**: Experienced with Git and GitHub.
 
-## 🌱 Currently Learning
-- Exploring advanced Flutter features and packages.
-- Deepening my understanding of backend technologies and cloud services.
+## 🌱 Currently Learning  
+- HTML & CSS: Building responsive layouts and user interfaces.  
+- JavaScript: Core programming concepts and dynamic web behavior.  
+- React.js: Learning component-based architecture and state management for web development. 
 
 ## 📈 Projects
 - [Project 1](https://github.com/Ajaykumaryadav-Aj/whatsapp_clone): Brief description of the project and technologies used.
